@@ -1,4 +1,4 @@
-The final version of the App can be viewed by clicking the [Link](https://raazkarkee405.github.io/movies-series-info)
+The final version of the App can be viewed by clicking the [Link](https://raazkarkee405.github.io/movies-series-info).
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
