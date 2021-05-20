@@ -1,9 +1,9 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: Gitlab-1
+  name: Movie-series-info
   description: testing service component
 spec:
   type: service
   lifecycle: experimental
-  owner: smilekishan.sk@gmail.com
+  owner: raazkarkee405@gmail.com
